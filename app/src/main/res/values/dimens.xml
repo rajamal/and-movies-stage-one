@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="movie_item_height">240dp</dimen>
+
+
+
+    <dimen name="movie_details_banner_height">200dp</dimen>
+    <dimen name="movie_details_poster_width">115dp</dimen>
+    <dimen name="movie_details_poster_height">150dp</dimen>
+    <dimen name="movie_details_date_size">25sp</dimen>
+    <dimen name="movie_details_title_size">25sp</dimen>
+    <dimen name="movie_details_vote_average_size">20sp</dimen>
+    <dimen name="movie_details_votes_size">16sp</dimen>
+
+</resources>

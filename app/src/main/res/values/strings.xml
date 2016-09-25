@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_movie_detail_title">Movie Detail</string>
+
+    <string name="fetch_movies_failure">Could not fetch movies. Please try again later.</string>
+
+    <string name="pref_general_sort_label">Sort by</string>
+    <string name="pref_general_sort_label_popular">Popularity</string>
+    <string name="pref_general_sort_label_top_rated">Rating</string>
+
+    <string name="pref_general_sort_key" translatable="false">sort_order</string>
+    <string name="pref_general_sort_popular" translatable="false">popular</string>
+    <string name="pref_general_sort_top_rated" translatable="false">top_rated</string>
+</resources>
